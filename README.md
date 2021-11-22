@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nosaxa
+- 👋 Hi, I’m Maxim Tantsura
 - 👀 I’m interested in frontend develpment
 - 🌱 I’m currently learning vanilla JS
 
